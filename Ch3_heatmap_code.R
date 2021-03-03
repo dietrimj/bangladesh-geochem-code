@@ -21,7 +21,7 @@ heat_2 <- t(heat)
 heat_1 <- t(heat_mat)
 
 
-# Define colors for each levels of qualitative variables
+# Define colors for each type of qualitative variable
 
 col1 <- list(Type=c(Extract="blue", Feed="brown", Sediment="red", Shrimp="pink", Water="purple"))
 
